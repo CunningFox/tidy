@@ -6,17 +6,15 @@ This dataset was made by combining the train and test data from the UCI HAR Data
 
 ### Variables.
 
-activity_name 
-    Descriptive activity names from acivity_labels.txt in the UCI HAR Dataset.
-    "WALKING"
-    "WALKING_UPSTAIRS"
-    "WALKING_DOWNSTAIRS"
-    "SITTING"
-    "STANDING"
-    "LAYING"
+activity_name - Descriptive activity names from acivity_labels.txt in the UCI HAR Dataset.
+* "WALKING"
+* "WALKING_UPSTAIRS"
+* "WALKING_DOWNSTAIRS"
+* "SITTING"
+* "STANDING"
+* "LAYING"
 
-subject
-    Identifier of the 30 subjects who performed the experiment. Values 1 to 30.
+subject - Identifier of the 30 subjects who performed the experiment. Values 1 to 30.
 
 The remaining six data columns below are the corresponding feature from the UCI HAR Dataset averaged for each activity_name and subject pair.
 

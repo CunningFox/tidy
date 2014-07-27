@@ -10,6 +10,8 @@ run_analysis.R - R source code.
 
 CodeBook.md - data dictionary for the dataset which run_analysis.R produces: tidy.
 
+tidy.txt - resulting clean dataset.
+
 ### Dependencies.
 
 UCI HAR Dataset.  This can be downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
